@@ -1,0 +1,16 @@
+INFO     WebDriverClass:DriverClass.py:14 Chrome browser initializing
+INFO     BaseClass:BasePage.py:24 Web page launched with url https://katalon-demo-cura.herokuapp.com/
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valuemenu-toggleusing locator typeid
+INFO     BaseClass:BasePage.py:89 Clicked on Webelement with locator valuemenu-toggleusing locatorTypeid
+INFO     BaseClass:BasePage.py:74 Webelement found with locator value//*[@id='sidebar-wrapper']/ul/li[3]/ausing locator typexpath
+INFO     BaseClass:BasePage.py:89 Clicked on Webelement with locator value//*[@id='sidebar-wrapper']/ul/li[3]/ausing locatorTypexpath
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valuetxt-usernameusing locator typeid
+INFO     BaseClass:BasePage.py:100 Sent the textJohn Doe in Webelement with locator valuetxt-usernameusing locatorTypeid
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valuetxt-passwordusing locator typeid
+INFO     BaseClass:BasePage.py:100 Sent the textThisIsNotAPassword in Webelement with locator valuetxt-passwordusing locatorTypeid
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valuebtn-loginusing locator typeid
+INFO     BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-loginusing locatorTypeid
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valuemenu-toggleusing locator typeid
+INFO     BaseClass:BasePage.py:89 Clicked on Webelement with locator valuemenu-toggleusing locatorTypeid
+INFO     BaseClass:BasePage.py:74 Webelement found with locator valueLogoutusing locator typelink text
+INFO     BaseClass:BasePage.py:89 Clicked on Webelement with locator valueLogoutusing locatorTypelink

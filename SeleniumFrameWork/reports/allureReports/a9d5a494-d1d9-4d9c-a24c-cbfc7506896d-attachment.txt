@@ -1,0 +1,45 @@
+[32mINFO    [0m WebDriverClass:DriverClass.py:14 Chrome browser initializing
+[32mINFO    [0m BaseClass:BasePage.py:24 Web page launched with url https://katalon-demo-cura.herokuapp.com/
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-make-appointmentusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-make-appointmentusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-usernameusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textJohn Doe in Webelement with locator valuetxt-usernameusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-passwordusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textThisIsNotAPassword in Webelement with locator valuetxt-passwordusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-loginusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-loginusing locatorTypeid
+[32mINFO    [0m classObjects:test_LoginDDT.py:51 **** Passed ****
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuemenu-toggleusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuemenu-toggleusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valueLogoutusing locator typelink text
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valueLogoutusing locatorTypelink
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-make-appointmentusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-make-appointmentusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-usernameusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textJohn De in Webelement with locator valuetxt-usernameusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-passwordusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textThisIsNotAPassword in Webelement with locator valuetxt-passwordusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-loginusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-loginusing locatorTypeid
+[32mINFO    [0m classObjects:test_LoginDDT.py:65 **** Passed ****
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-make-appointmentusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-make-appointmentusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-usernameusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textJohn Doe in Webelement with locator valuetxt-usernameusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-passwordusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textThisIsAPassword in Webelement with locator valuetxt-passwordusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-loginusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-loginusing locatorTypeid
+[32mINFO    [0m classObjects:test_LoginDDT.py:65 **** Passed ****
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-make-appointmentusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-make-appointmentusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-usernameusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textJOHN DOE in Webelement with locator valuetxt-usernameusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuetxt-passwordusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:100 Sent the textTHISISNOTAPASSWORD in Webelement with locator valuetxt-passwordusing locatorTypeid
+[32mINFO    [0m BaseClass:BasePage.py:74 Webelement found with locator valuebtn-loginusing locator typeid
+[32mINFO    [0m BaseClass:BasePage.py:89 Clicked on Webelement with locator valuebtn-loginusing locatorTypeid
+[32mINFO    [0m classObjects:test_LoginDDT.py:65 **** Passed ****
+[32mINFO    [0m classObjects:test_LoginDDT.py:69 **** Login DDT test passed ****
+[32mINFO    [0m classObjects:test_LoginDDT.py:79 ******** End of Login DDT Test ***************
+[32mINFO    [0m classObjects:test_LoginDDT.py:80 ***************** Competed Login DDT***************
